@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/token-roi-calculator/static/css/main.37444101.css",
+    "main.js": "/token-roi-calculator/static/js/main.f8e0c25b.js",
+    "index.html": "/token-roi-calculator/index.html",
+    "main.37444101.css.map": "/token-roi-calculator/static/css/main.37444101.css.map",
+    "main.f8e0c25b.js.map": "/token-roi-calculator/static/js/main.f8e0c25b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37444101.css",
+    "static/js/main.f8e0c25b.js"
+  ]
+}
